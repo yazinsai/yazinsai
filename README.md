@@ -11,7 +11,7 @@ I build tools at the intersection of AI, language, and faith.
 ## 🤖 AI Tools
 
 - **[srt-ai](https://github.com/yazinsai/srt-ai)** — Translate SRT subtitle files to any language using AI 🌍
-- **[OpenGranola](https://github.com/yazinsai/OpenGranola)** — Open-source real-time meeting copilot for macOS 🎧
+- **[OpenOats](https://github.com/yazinsai/OpenGranola)** — Open-source real-time meeting copilot for macOS 🎧
 - **[claude-code-remote](https://github.com/yazinsai/claude-code-remote)** — Access Claude Code sessions from any device 💻
 - **[exec](https://github.com/yazinsai/exec)** — Voice → Done. AI executive that handles whatever you throw at it 🗣️
 - **[ai-spreadsheet](https://github.com/yazinsai/ai-spreadsheet)** — AI-powered spreadsheet application 📊
