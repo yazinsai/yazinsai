@@ -10,6 +10,7 @@ I build tools at the intersection of AI, language, and faith.
 
 ## 🤖 AI Tools
 
+- **[auto-maintainer](https://github.com/yazinsai/auto-maintainer)** — Write repo rules in Markdown, AI enforces them — triages, reviews, fixes, merges, releases 🛠️ `NEW`
 - **[srt-ai](https://github.com/yazinsai/srt-ai)** — Translate SRT subtitle files to any language using AI 🌍
 - **[OpenGranola](https://github.com/yazinsai/OpenGranola)** — Open-source real-time meeting copilot for macOS 🎧
 - **[claude-code-remote](https://github.com/yazinsai/claude-code-remote)** — Access Claude Code sessions from any device 💻
