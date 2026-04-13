@@ -23,3 +23,4 @@ I build tools at the intersection of AI, language, and faith.
 
 - **[zonebar](https://github.com/yazinsai/zonebar)** — Stop doing timezone math. Menu bar app that shows the time everywhere you care about ⏰ `NEW`
 - **[OpenOats](https://github.com/yazinsai/OpenOats)** — A meeting note-taker that talks back 🗒️ `NEW`
+- **[circle-explorer](https://github.com/yazinsai/circle-explorer)** — A file explorer that works like a map, not a list. Concentric rings instead of folders 🌀 `NEW`
